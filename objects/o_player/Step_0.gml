@@ -13,7 +13,19 @@ up_release = keyboard_check_released(vk_up);
 switch (state)
 {
 	#region Move State
+	
 	case player.moving:
+	
+	//Player animation einschalten oder ausschalten
+	if (xspeed == 0)
+	{
+		sprite_index = s_player_idle
+	}
+	else
+	{
+		sprite_index = s_player_walk
+	}
+	
 	//Check if player is on ground
 	if(!place_meeting(x, y+5, o_solid))
 	{
