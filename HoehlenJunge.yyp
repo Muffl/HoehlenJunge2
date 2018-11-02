@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "87eec7b3-0a95-4908-9af8-8843e6730223",
+            "Value": {
+                "id": "e6e0e251-1ed1-479a-8af1-e1876a340d92",
+                "resourcePath": "fonts\\f_title\\f_title.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "8dcd1ea4-6e4b-48de-a21f-832428c6bbe6",
             "Value": {
                 "id": "f234d48b-4bec-4b1d-a57b-2db654db232f",
@@ -220,6 +228,14 @@
                 "id": "ec8811e0-98cd-4697-900b-b62f17df6b54",
                 "resourcePath": "views\\9562912f-80ba-42af-b791-073d56da1cf2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "973138c5-57db-4897-a223-e3d483100f86",
+            "Value": {
+                "id": "16c4cf09-daa3-40c4-b146-f47907d72043",
+                "resourcePath": "fonts\\f_start\\f_start.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -332,6 +348,14 @@
                 "id": "a5b789f5-8404-4f50-8043-3202264f4006",
                 "resourcePath": "sprites\\s_player_walk\\s_player_walk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e1808314-2ed5-466f-97e7-76f612110f4a",
+            "Value": {
+                "id": "307cfca8-3f28-4c7b-b3df-d73429c65c65",
+                "resourcePath": "views\\dd6f93db-1fa8-4ee2-adbd-e8b10e05b51e-room.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
