@@ -27,19 +27,34 @@ switch (state)
 	}
 	
 	//Check if player is on ground
-	if(!place_meeting(x, y+5, o_solid))
-	{
+	if(!place_meeting(x, y + 1, o_solid))
+	{ 
 		yspeed += gravity_acceleration;
 		
-		//More code soon
+		//Player is in the air
+		sprite_index = s_player_jump;
+		image_index = (yspeed > 0);
 		
+		//Control jump high
+		if (up_release and yspeed < -6)
+		{
+			yspeed = -3;
+		}
 	}
-	else
-	{
-		yspeed = 0;
+		else 
+		{
+			yspeed = 0;
+				
+		// Jump
+		
+		if (up) 
+		{
+			yspeed = jump_height;
+		}
+			
 	}
 	
-	
+
 	//Change direction of sprite
 	if (xspeed != 0)
 	{
