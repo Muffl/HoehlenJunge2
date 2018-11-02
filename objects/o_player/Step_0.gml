@@ -50,6 +50,7 @@ switch (state)
 		if (up) 
 		{
 			yspeed = jump_height;
+			audio_play_sound(a_jump,5,false);
 		}
 			
 	}
@@ -72,6 +73,11 @@ switch (state)
 		apply_friction(acceleration);
 		
 	}
+	if ( place_meeting(x, y+yspeed + 1, o_solid) and yspeed > 0)
+	{
+		audio_play_sound(a_step,6,false);
+	}
+	
 	move(o_solid);
 	
 	break;
