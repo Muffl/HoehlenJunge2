@@ -14,4 +14,18 @@ if (room == r_title)
 if (room !=r_title)
 {
 	
+	// Draw health
+	 for (var i = 1; i <= hp; ++i)
+	 {
+		 draw_sprite_ext(s_heart,0,(i * 25) - 10, 15, 1, 1, 0, c_white, 1);
+	 }
+		 
+	// Draw score
+	
+	draw_set_font(f_score);
+	draw_set_halign(fa_left);
+	draw_text(5,25,"Score:" + string(sapphires));
+	
+	
+	
 }
