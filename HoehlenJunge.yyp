@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "29902260-c66a-45e4-b4aa-dfbf0c8691e1",
+            "Value": {
+                "id": "608f2cc7-dbc7-4640-b4c5-12d93e06b65e",
+                "resourcePath": "tilesets\\t_dirt\\t_dirt.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "2e28cfe5-f9ca-4b59-a556-a88780f5fcb3",
             "Value": {
                 "id": "c1eec0f6-2c05-4dc1-936b-288d6cb988a7",
@@ -92,6 +100,14 @@
                 "id": "744d8118-6d33-4920-8643-157c9a49aeba",
                 "resourcePath": "objects\\o_player_stats\\o_player_stats.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "444bfbf4-15c1-4c66-b464-beccdb960d0e",
+            "Value": {
+                "id": "cb049472-8216-402d-a3e5-6d3dac90ce22",
+                "resourcePath": "sprites\\s_dirt_wall\\s_dirt_wall.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -247,6 +263,14 @@
             }
         },
         {
+            "Key": "9b81b427-918f-43ef-a4b1-afbf286b74d0",
+            "Value": {
+                "id": "0e3f2556-9b58-466e-9c79-9ed3f519a20e",
+                "resourcePath": "sprites\\s_dirt\\s_dirt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9d2a7229-4961-472b-aead-2d546deb70d3",
             "Value": {
                 "id": "a6c64419-b095-4fff-a98f-fbe74f4516f7",
@@ -260,6 +284,14 @@
                 "id": "6ea7be8d-b2bb-4088-ad6e-9827403c7691",
                 "resourcePath": "sprites\\s_player_exit\\s_player_exit.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a3fc69f4-2117-44ff-b0b5-498bb677bfcd",
+            "Value": {
+                "id": "2a098cb0-4bc4-40c6-807c-b0251c96468c",
+                "resourcePath": "views\\a3fc69f4-2117-44ff-b0b5-498bb677bfcd.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
