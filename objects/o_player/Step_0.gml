@@ -162,7 +162,43 @@ switch (state)
 	
 	#region Hurt State
 	case player.hurt:
-	
+		sprite_index = s_player_hurt;
+		//Change direction as fly around
+		if (xspeed !=0)
+		{
+			image_xscale = sign(xspeed);
+		}	
+		
+		if (!place_meeting(x,y + 1, o_solid))
+		{
+			yspeed += gravity_acceleration;
+		}
+		else
+		{
+			yspeed = 0;
+			apply_friction(acceleration);
+		}
+		
+		direction_move_bounce(o_solid);
+		
+		//Change back to the other state
+		if (xspeed == 0 and yspeed == 0)
+		{
+			//Check health
+		
+			if( o_player_stats.hp <= 0)
+			{
+				state = player.death
+				image_blend = c_black;
+			}
+			else
+			{
+				image_blend = c_white;
+				
+				state = player.moving;
+			}
+		}
+		
 	break;
 	#endregion
 	
