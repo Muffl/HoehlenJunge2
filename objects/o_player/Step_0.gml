@@ -140,12 +140,14 @@ switch (state)
 	
 	#region door state
 	case player.door:
+	
+		sprite_index = s_player_exit;
 	  //Fade out
 	  
 	  if (image_alpha > 0)
 	  
 	  {
-		image_alpha -= 0.1;
+		image_alpha -= 0.02;
 	  }
 	  
 	  else
