@@ -204,6 +204,17 @@ switch (state)
 	
 	#region Death state
 	case player.death:
+		with (o_player_stats)
+		{
+			hp = max_hp;
+			sapphires = 0;
+			
+		}
+		
+		room_restart();
+	
+		
+	
 	
 	break;
 	#endregion

@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "7486ede9-fb1d-45fb-9d93-22e49f70353c",
+            "Value": {
+                "id": "f9ff93d3-0aee-493c-898c-e585fd895dfe",
+                "resourcePath": "sprites\\s_snake\\s_snake.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75a64d8e-6cb1-4cb1-ad05-c95af7c49914",
             "Value": {
                 "id": "6996a36a-0136-4b03-87fb-d31c5d69aa4c",
@@ -276,6 +284,14 @@
                 "id": "e6e0e251-1ed1-479a-8af1-e1876a340d92",
                 "resourcePath": "fonts\\f_title\\f_title.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "89cc1eb9-0fd2-4ed8-97f9-b717a6408ef4",
+            "Value": {
+                "id": "4dd71b0c-29b1-4f5d-9e66-e65ea446c5da",
+                "resourcePath": "views\\89cc1eb9-0fd2-4ed8-97f9-b717a6408ef4.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -415,6 +431,14 @@
             }
         },
         {
+            "Key": "b323672d-8649-48d9-9246-0ed6fa9433a8",
+            "Value": {
+                "id": "75b3c856-1979-4bd5-95e9-c3cc85885636",
+                "resourcePath": "objects\\o_snake\\o_snake.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b9a9d7ba-a271-4b44-9d34-fd036cc9337d",
             "Value": {
                 "id": "d81c51c7-2028-45ca-a67d-5c0982bc4e21",
@@ -551,6 +575,14 @@
             }
         },
         {
+            "Key": "eb1474e8-01d7-47db-913e-0c8491248bba",
+            "Value": {
+                "id": "3e2169c3-40ed-464e-b065-f5003381f38c",
+                "resourcePath": "sprites\\s_bad_fly\\s_bad_fly.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f0260355-76aa-40ce-a239-8923cff924e7",
             "Value": {
                 "id": "ae7dc80b-752c-4f0a-bf24-5a9925acc81c",
@@ -587,6 +619,22 @@
             "Value": {
                 "id": "6825db9f-0d48-4c85-b617-0bbc2f4e478c",
                 "resourcePath": "sprites\\s_door\\s_door.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fb510b3e-c3ee-4656-b952-5686bd757533",
+            "Value": {
+                "id": "82f65fa7-7654-4b0a-9ed7-848738ea7305",
+                "resourcePath": "sprites\\s_spider\\s_spider.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fdffdc96-c78b-4cbd-8df3-da76f90919eb",
+            "Value": {
+                "id": "6ed8f5fe-69dc-445b-92fd-8689adfe50ff",
+                "resourcePath": "sprites\\s_bad_idle\\s_bad_idle.yy",
                 "resourceType": "GMSprite"
             }
         }

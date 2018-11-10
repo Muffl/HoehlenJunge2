@@ -1,14 +1,14 @@
 /// @description Bounce
 
-/// Erschwert das Spiel
+// Erschwert das Spiel
 
-//move_bounce_all(false);
+move_bounce_all(false);
 
-////Slow the speed over a time
+//Slow the speed over a time
 
-//if (speed > 1)
-//{
-//	speed -= .5;
-//}
+if (speed > 1)
+{
+	speed -= .5;
+}
 
 
