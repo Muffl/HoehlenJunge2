@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "02b5e25f-16da-489d-a296-5b79b7f6b8cf",
+            "Value": {
+                "id": "154947dc-04dd-4c12-b309-5fa69ede59a1",
+                "resourcePath": "objects\\o_bat\\o_bat.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "16f815f3-e6e7-4978-b438-6334ca917385",
             "Value": {
                 "id": "0c838330-415d-453f-8e4f-32168105e686",
@@ -578,7 +586,7 @@
             "Key": "eb1474e8-01d7-47db-913e-0c8491248bba",
             "Value": {
                 "id": "3e2169c3-40ed-464e-b065-f5003381f38c",
-                "resourcePath": "sprites\\s_bad_fly\\s_bad_fly.yy",
+                "resourcePath": "sprites\\s_bat_fly\\s_bat_fly.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -634,7 +642,7 @@
             "Key": "fdffdc96-c78b-4cbd-8df3-da76f90919eb",
             "Value": {
                 "id": "6ed8f5fe-69dc-445b-92fd-8689adfe50ff",
-                "resourcePath": "sprites\\s_bad_idle\\s_bad_idle.yy",
+                "resourcePath": "sprites\\s_bat_idle\\s_bat_idle.yy",
                 "resourceType": "GMSprite"
             }
         }

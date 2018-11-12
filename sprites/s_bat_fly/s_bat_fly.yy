@@ -2,7 +2,7 @@
     "id": "eb1474e8-01d7-47db-913e-0c8491248bba",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "s_bad_fly",
+    "name": "s_bat_fly",
     "For3D": false,
     "HTile": false,
     "VTile": false,
