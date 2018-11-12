@@ -6,7 +6,8 @@
     "children": [
         "b9a9d7ba-a271-4b44-9d34-fd036cc9337d",
         "b323672d-8649-48d9-9246-0ed6fa9433a8",
-        "02b5e25f-16da-489d-a296-5b79b7f6b8cf"
+        "02b5e25f-16da-489d-a296-5b79b7f6b8cf",
+        "a8ced49d-90cd-42ba-9eb3-f1419e01e330"
     ],
     "filterType": "GMObject",
     "folderName": "Enemies",
