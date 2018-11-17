@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "22847cc5-85b4-4baf-b019-cf46587261e2",
+            "Value": {
+                "id": "1d311ba8-6e21-4c94-8a33-66d4b61d2501",
+                "resourcePath": "rooms\\r_two\\r_two.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "24480888-c5d5-4789-87a7-5972ac0b1a53",
             "Value": {
                 "id": "c5ed5a71-eff7-4f97-9944-1680e081108f",
@@ -327,6 +335,14 @@
             }
         },
         {
+            "Key": "8e5ed66b-69b4-40f9-8103-6c215966962b",
+            "Value": {
+                "id": "c948a3ca-8775-4e05-9499-add91fadd84b",
+                "resourcePath": "sprites\\s_goomba\\s_goomba.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8f727e5f-4c59-4cac-9d48-6f3ab120b1d6",
             "Value": {
                 "id": "b6647462-1cf1-4009-b01e-6e42827cbdcf",
@@ -343,10 +359,10 @@
             }
         },
         {
-            "Key": "928d6588-7943-4ddc-9a52-9ce519c2c1f2",
+            "Key": "923e5760-b3f8-4081-9d50-ed5991c320bb",
             "Value": {
-                "id": "131c99bc-0369-4a4d-8016-02ff60b02b1c",
-                "resourcePath": "rooms\\r_two\\r_two.yy",
+                "id": "7cdfb914-0e2e-49af-8626-31751087b66e",
+                "resourcePath": "rooms\\r_three\\r_three.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -452,6 +468,14 @@
                 "id": "07347224-1d7f-4ca3-8974-40605f5ea50d",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "acd81d94-01c5-4889-99d4-e6f3131230d4",
+            "Value": {
+                "id": "6e44ec2f-77be-497d-86b2-81c4cf509a31",
+                "resourcePath": "sprites\\s_boss\\s_boss.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -635,6 +659,14 @@
             "Value": {
                 "id": "1ed45f7c-0d2e-445d-be98-454f923ced97",
                 "resourcePath": "objects\\o_player\\o_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f1232c0a-73e3-4d1a-958b-bafd6ca3b8ed",
+            "Value": {
+                "id": "9f8b6c51-38c8-4202-958e-055ae8b8e586",
+                "resourcePath": "objects\\o_goomba\\o_goomba.yy",
                 "resourceType": "GMObject"
             }
         },
