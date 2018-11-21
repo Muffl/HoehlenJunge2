@@ -474,7 +474,7 @@
             "Key": "acd81d94-01c5-4889-99d4-e6f3131230d4",
             "Value": {
                 "id": "6e44ec2f-77be-497d-86b2-81c4cf509a31",
-                "resourcePath": "sprites\\s_boss\\s_boss.yy",
+                "resourcePath": "sprites\\s_boss2\\s_boss2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -500,6 +500,14 @@
                 "id": "d81c51c7-2028-45ca-a67d-5c0982bc4e21",
                 "resourcePath": "objects\\o_boss\\o_boss.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bb65eb1a-5023-4b23-9715-bb5ab92f7275",
+            "Value": {
+                "id": "79acbe34-b8c2-45f3-8ea4-cea229a07397",
+                "resourcePath": "sprites\\s_boss\\s_boss.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
